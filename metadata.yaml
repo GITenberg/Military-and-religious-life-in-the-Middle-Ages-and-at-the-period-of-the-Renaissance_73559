@@ -1,5 +1,8 @@
 _repo: Military-and-religious-life-in-the-Middle-Ages-and-at-the-period-of-the-Renaissance_73559
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73559-h/images/cover.jpg
 creator:
   author:
     agent_name: Jacob, P. L.
@@ -17,6 +20,8 @@ creator:
     - https://en.wikipedia.org/wiki/Paul_Lacroix
     - https://fr.wikipedia.org/wiki/Paul_Lacroix_(%C3%A9crivain)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73559#Military-and-religious-life-in-the-Middle-Ages-and-at-the-period-of-the-Renaissance
 gutenberg_issued: '2024-05-07'
 gutenberg_type: Text
 identifiers:
